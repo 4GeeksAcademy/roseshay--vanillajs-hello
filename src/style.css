@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: azure;
+}
+.card {
+  width: 250px;
+  height: 400px;
+  font-size: 75px;
+}
+.bottom {
+  display: flex;
+  justify-content: flex-end;
+}
+.number {
+}
